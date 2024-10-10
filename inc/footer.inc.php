@@ -32,8 +32,8 @@
       <p>A-123 Any Building</p>
       <p>Any Road, Any Area</p>
       <p>Any State, Any Country</p>
-      <p class="mt-4"><strong>Phone:</strong> <span>+91 9737046657</span></p>
-      <p><strong>Email:</strong> <span>jeetmistry115@gmai.com</span></p>
+      <p class="mt-4"><strong>Phone:</strong> <span>+91 7016704950</span></p>
+      <p><strong>Email:</strong> <span>devp04412@gmail.com</span></p>
     </div>
 
   </div>
@@ -46,7 +46,7 @@
     <!-- You can delete the links only if you've purchased the pro version. -->
     <!-- Licensing information: https://bootstrapmade.com/license/ -->
     <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-    Designed by <a>JEET MISTRY</a>
+    Designed by <a>Dev Patel</a>
   </div>
 </div>
 
